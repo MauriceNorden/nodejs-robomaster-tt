@@ -1,0 +1,16 @@
+{
+  "name": "drone-udp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/wsServer.js"
+
+  },
+  "author": "Maurice Norden",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "ws": "^8.8.0"
+  }
+}
