@@ -27,5 +27,5 @@ This is not the most elegant way to do it, But it is a proof of concept non the 
 
 I may add add camera stream in the future but don't quote me on that.
 
-[Link to 'SDK'](https://dl.djicdn.com/downloads/RoboMaster+TT/Tello_SDK_3.0_User_Guide_en.pdf)
+[Link to 'SDK'](https://github.com/MauriceNorden/nodejs-robomaster-tt/blob/main/Tello_SDK_3.0_User_Guide_en.pdf)
 	
